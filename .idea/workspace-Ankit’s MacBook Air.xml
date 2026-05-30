@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="073854bb-0f00-40b2-8097-2c02c5029202" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3E4Zv6P3TS8OQnI1hjfCV6GztnW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithmetic.executor": "Run",
+    "Application.ArrayOccur.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Course.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.MultiplicationUsingForLoop.executor": "Run",
+    "Application.PalindromeNum.executor": "Run",
+    "Application.SumOdd.executor": "Run",
+    "Application.absoluteTernary.executor": "Run",
+    "Application.areatraingle.executor": "Run",
+    "Application.armStrongNumber.executor": "Run",
+    "Application.arrayPalindrome.executor": "Run",
+    "Application.bitwiseAnd.executor": "Run",
+    "Application.bitwiseCompliment.executor": "Run",
+    "Application.bitwiseLeft.executor": "Run",
+    "Application.bitwiseOr.executor": "Run",
+    "Application.bitwiseRight.executor": "Run",
+    "Application.bitwiseXor.executor": "Run",
+    "Application.caculatorUsingSwitch.executor": "Run",
+    "Application.categorizePerson.executor": "Run",
+    "Application.circle.executor": "Run",
+    "Application.compoundinterest.executor": "Run",
+    "Application.concatString.executor": "Run",
+    "Application.concatenateString.executor": "Run",
+    "Application.delElementFromArray.executor": "Run",
+    "Application.diagonalSu.executor": "Run",
+    "Application.diceRoll.executor": "Run",
+    "Application.exitOnExit.executor": "Run",
+    "Application.fibRecursion.executor": "Run",
+    "Application.fibSeries.executor": "Run",
+    "Application.floatproduct.executor": "Run",
+    "Application.gcd.executor": "Run",
+    "Application.goodmorning.executor": "Run",
+    "Application.gradeCalculator.executor": "Run",
+    "Application.greatestOfThree.executor": "Run",
+    "Application.guessingGame.executor": "Run",
+    "Application.helloname.executor": "Run",
+    "Application.helloworld.executor": "Run",
+    "Application.isArraySorted.executor": "Run",
+    "Application.lcm.executor": "Run",
+    "Application.leapyear.executor": "Run",
+    "Application.maxAndMinArray.executor": "Run",
+    "Application.maxValueInArray.executor": "Run",
+    "Application.mergeSortedArrays.executor": "Run",
+    "Application.minTwo.executor": "Run",
+    "Application.monthOfTheYea.executor": "Run",
+    "Application.numberGuessing.executor": "Run",
+    "Application.occurInArray.executor": "Run",
+    "Application.oddEvenTernary.executor": "Run",
+    "Application.oddEvenUsingBitwise.executor": "Run",
+    "Application.oddeven.executor": "Run",
+    "Application.onlyEven.executor": "Run",
+    "Application.palRecursion.executor": "Run",
+    "Application.passwordChecker.executor": "Run",
+    "Application.pattern.executor": "Run",
+    "Application.patternsingle.executor": "Run",
+    "Application.perimeterrect.executor": "Run",
+    "Application.posneg.executor": "Run",
+    "Application.prime.executor": "Run",
+    "Application.primeOrNotUsingFor.executor": "Run",
+    "Application.pyramidPattern.executor": "Run",
+    "Application.reverseArr.executor": "Run",
+    "Application.reverseDigits.executor": "Run",
+    "Application.search2DArray.executor": "Run",
+    "Application.simpleinterest.executor": "Run",
+    "Application.studentClass.executor": "Run",
+    "Application.studentsScore.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.sumAndAverage2D.executor": "Run",
+    "Application.sumArray.executor": "Run",
+    "Application.sumOfDigits.executor": "Run",
+    "Application.sumPositive.executor": "Run",
+    "Application.swaptwo.executor": "Run",
+    "Application.tempconver.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ankitgupta/Library/CloudStorage/OneDrive-IITRAM/IntelliJ Idea/Java/PS",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gcd" />
+      <module name="PS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gcd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="073854bb-0f00-40b2-8097-2c02c5029202" name="Changes" comment="" />
+      <created>1779440030411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779440030411</updated>
+    </task>
+    <servers />
+  </component>
+</project>
